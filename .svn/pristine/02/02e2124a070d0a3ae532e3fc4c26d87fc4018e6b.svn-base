@@ -1,0 +1,12 @@
+mail=no
+accId=1189
+accName=Mohana Krishnamurthy
+firstAppraiser=212
+crm_project=CRM
+crm_version=1.0
+leaveApprover=112
+hrleaveApprover=212
+mom-mods=104,112,200,478,481,1189
+mom-plan-mod=112
+LogFilepath=C:\\glassfish4\\glassfish\\domains\\domain1\\logs\\server.log
+hrId=6268
