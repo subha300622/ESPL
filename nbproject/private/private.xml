@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/PMRaja/eTracker/src/com/eminent/issue/controller/ApmComponentController.java</file>
+            <file>file:/E:/PMRaja/eTracker/src/com/eminent/issue/controller/AgeWiseIssues.java</file>
+            <file>file:/E:/PMRaja/eTracker/Muthuraja.puml</file>
+        </group>
+        <group name="Projects">
+            <file>file:/E:/PMRaja/eTracker/WebContent/MyIssues/MyIssuephase.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/testMap.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/admin/dashboard/viewSubIssue.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/admin/dashboard/mainsubissues.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/src/com/pack/controller/AdminEditModuleController.java</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/MyAssignment/UpdateIssueview.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/admin/dashboard/openIssueByProject.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/admin/dashboard/MyAssignmentPhase.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/MyAssignment/MyAssignmentPhase.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/admin/dashboard/UpdateIssueview.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/WebContent/MOM/userplannedIssuesReport.jsp</file>
+            <file>file:/E:/PMRaja/eTracker/src/com/eminent/issue/dao/IssueDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
